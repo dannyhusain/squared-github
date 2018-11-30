@@ -1,2 +1,2 @@
 def power(num):
-    return num**2;
+    return num**3;
